@@ -6,6 +6,9 @@ O frontend reúne em uma única interface ferramentas para planejamento, foco e 
 
 > **Contexto do repositório:** este projeto faz parte da reconstrução do FocusFlow após a perda do repositório original. O serviço online original foi preservado e utilizado como referência durante a recuperação do frontend.
 
+> 🚀 **[Demo online](https://focus-flow-frontend-dusky.vercel.app/)** ·
+> 🔧 **[Backend](https://github.com/Weslley-141/FocusFlow-Backend)**
+
 ---
 
 ## ✨ Funcionalidades
